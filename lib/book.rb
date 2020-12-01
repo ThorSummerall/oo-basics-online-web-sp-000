@@ -5,7 +5,7 @@ class Book
     @title = title
   end
 
-  def cobble
+  def turn_page
     puts "Flipping the page...wow, you read fast!"
   end
 end
